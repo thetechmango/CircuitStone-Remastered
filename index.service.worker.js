@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794031139|8613129814';
+const CACHE_VERSION = '1794119299|7135303409';
 /** @type {string} */
 const CACHE_PREFIX = 'CircuitStone Rem-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
